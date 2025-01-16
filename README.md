@@ -14,13 +14,13 @@ The project implements various of data structure concepts, such as :
 The project is developed using Functional programming, C++ language, runs on CLI, and only requires iostream
 
 There is a [report](https://github.com/user-attachments/files/18434627/Dokumentasi_085_Cornelius_Praktikum.docx)
-written in Bahasa Indonesia that you can read from.
+written in *Bahasa Indonesia* that you can read from.
 
 ## :arrow_forward: **Installation and Usage** 
 To install this project, please proceed these steps:
 1. Clone the repository: **`git clone https://github.com/Louis3112/cornelius_library`**
 2. Navigate to the project directory: **`cd cornelius_library`**
-3. Compile the project: **`g++ -o cornelius_library cornelius_library.cpp`** (if you want to run Graph DFS, just change into Graph_DFS)
+3. Compile the project: **`g++ -o cornelius_library cornelius_library.cpp`** 
 4. Run the project : **`./cornelius_library`** (or just simply run with your IDE)
 
 ## 	:bust_in_silhouette: **Contributing** :bust_in_silhouette:
