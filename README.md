@@ -1,6 +1,6 @@
 # :bangbang: **Data Structure Project for 2nd Semester**  :bangbang:
 
-##  :child: :card_index: **graph_sby_map** :child: :card_index:
+##  :child: :card_index: **cornelius_library** :child: :card_index:
 One of my project for Data Structure 2nd Semester. The project is a simple library CRUD app with name Cornelius Library
 
 The project implements various of data structure concepts, such as :
