@@ -11,7 +11,7 @@ The project implements various of data structure concepts, such as :
 5. Graph (give reading suggestions based on book that has been borrowed)
 6. Hash Table and Collision Handling (to manage book loans)
 
-The project is developed using Functional programming, C++ language, runs on CLI, and only requires iostream
+The project is developed using Functional programming, C++ language, runs on CLI, and requires a minimal set of library to use (doesn't require installing any library from outside).
 
 There is a [report](https://github.com/user-attachments/files/18434627/Dokumentasi_085_Cornelius_Praktikum.docx)
 written in *Bahasa Indonesia* that you can read from.
